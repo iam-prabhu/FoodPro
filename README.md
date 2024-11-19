@@ -1,4 +1,4 @@
-##FoodPro
+**FoodPro**
 FoodPro is a sleek, modern recipe-generating web application designed to simplify meal planning and inspire culinary creativity. Powered by the Spoonacular API, FoodPro delivers personalized, easy-to-follow recipes tailored to users' preferences, dietary restrictions, and available ingredients. Built with Vite React, FoodPro is a fast, responsive, and intuitive platform that provides an enjoyable user experience across devices.
 
 Tech Stack:
